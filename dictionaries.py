@@ -13,7 +13,7 @@ print("Dict:%s "%dict)
 #updating values in dictionary
 dict["OS"] = "IOS"
 print(dict)
-del dict1["Ports"] #deleting a key-value pair from the dictionary
+del dict1["Ports"]  #deleting a key-value pair from the dictionary
 
 len(dict1) #returns the number of key-value pairs in the dictionary
 
